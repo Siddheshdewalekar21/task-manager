@@ -27,7 +27,8 @@ A modern, responsive task management application built with Next.js, TypeScript,
 First, run the development server:
 
 ```bash
-cd task-manager
+cd task-manager-main
+npm install
 npm run dev
 ```
 
